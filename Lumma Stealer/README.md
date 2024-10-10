@@ -1,9 +1,10 @@
 # Lumma Stealer
 
-Tested on sample:
+Tested on Lumma Stealer v4.0 on the following sample:
 https://www.virustotal.com/gui/file/c68856eee73796bc835c205be54888e3c99caf983dc5d35aedf2981fd41be527
 
 **C2 servers:**
+```
 gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXhHQwPbMSji1NM9x+7fc8= ----> clearancek.site
 gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXvHgsMd9WohlxS9x+mZtgX ----> mobbipenju.store
 gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXnEA4Ce9Wsn1hIoEKhfcUAtw== ----> eaglepawnoy.store
@@ -13,8 +14,10 @@ gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXgEB0GesqihVFGo0KhfcUAtw== ----> bathd
 gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXxAQAcd9G5nVhCskKhfcUAtw== ----> spirittunek.store
 gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXuGAoLcMGrgVpTvAP8esMGtw== ----> licendfilteo.site
 gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXhHQwPbMSji1NM9x+7fc8= ----> clearancek.site
+```
 
 **Hashed Apis**
+```
 0x4acba761 -> WinHttpOpen (winhttp.dll)
 0x5cafdff1 -> WinHttpConnect (winhttp.dll)
 0x2bcbe176 -> WinHttpOpenRequest (winhttp.dll)
@@ -50,6 +53,7 @@ gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXhHQwPbMSji1NM9x+7fc8= ----> clearance
 0xf8eb88df -> IsWow64Process (kernel32.dll)
 0xf8eb88df -> IsWow64Process (kernel32.dll)
 0x6fbdd3ec -> RtlAllocateHeap (ntdll.dll)
+```
 0x7695f9b5 -> RtlReAllocateHeap (ntdll.dll)
 0x4b724709 -> RtlFreeHeap (ntdll.dll)
 0x9d70c490 -> RtlExpandEnvironmentStrings (ntdll.dll)
