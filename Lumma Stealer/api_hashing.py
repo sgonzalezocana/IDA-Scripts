@@ -29,7 +29,7 @@ def hash_algorithm(api_name: bytes, seed: int) -> int:
 
 def resolve_hash(hash_to_search):
     try:
-        lib_names = ["ntdll.dll", 'kernel32.dll', 'winhttp.dll']
+        lib_names = ["ntdll.dll", 'kernel32.dll', 'winhttp.dll', 'user32.dll']
         pe = None
         for lib in lib_names:
             lib_full_path = os.path.join("C:\\Windows\\System32" , lib)
