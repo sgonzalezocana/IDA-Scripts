@@ -53,9 +53,9 @@ gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXhHQwPbMSji1NM9x+7fc8= ----> clearance
 0xf8eb88df -> IsWow64Process (kernel32.dll)
 0xf8eb88df -> IsWow64Process (kernel32.dll)
 0x6fbdd3ec -> RtlAllocateHeap (ntdll.dll)
-```
 0x7695f9b5 -> RtlReAllocateHeap (ntdll.dll)
 0x4b724709 -> RtlFreeHeap (ntdll.dll)
 0x9d70c490 -> RtlExpandEnvironmentStrings (ntdll.dll)
 0xeb2bb7e -> LoadLibraryExW (kernel32.dll)
 0x1263c032 -> FreeLibrary (kernel32.dll)
+```
