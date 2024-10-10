@@ -1,2 +1,2 @@
 # IDA-Scripts
-IDA scripts to analyze malware families
+IDA scripts to analyze different malware families
