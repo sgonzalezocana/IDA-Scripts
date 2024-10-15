@@ -6,19 +6,6 @@ https://www.virustotal.com/gui/file/9e4ebf3412a36099adf96f26ffc3265a7a5b9eefc5f1
 Unpacked sample:
 SHA256: 7fadf078fe8f52245aeb541c34544156c3289cef002c490547940d4a7125b35b
 
-**C2 servers:**
-```
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXhHQwPbMSji1NM9x+7fc8= ----> clearancek.site
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXvHgsMd9WohlxS9x+mZtgX ----> mobbipenju.store
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXnEA4Ce9Wsn1hIoEKhfcUAtw== ----> eaglepawnoy.store
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXmGBodf9WigUxJrkKhfcUAtw== ----> dissapoiznw.store
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXxBRwKe8ujh0JCvQWlJ9kGveoD ----> studennotediw.store
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXgEB0GesqihVFGo0KhfcUAtw== ----> bathdoomgaz.store
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXxAQAcd9G5nVhCskKhfcUAtw== ----> spirittunek.store
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXuGAoLcMGrgVpTvAP8esMGtw== ----> licendfilteo.site
-gnFpbh6lzeg2J9ls0gmqctKYZtfim+5c3D04iq8TBVXhHQwPbMSji1NM9x+7fc8= ----> clearancek.site
-```
-
 **Hashed Apis**
 ```
 Ws2_32.dll : 0x28ec9370 -> socket
