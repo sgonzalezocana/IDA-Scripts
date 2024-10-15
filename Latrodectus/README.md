@@ -3,8 +3,7 @@
 Tested on the following sample:
 https://www.virustotal.com/gui/file/9e4ebf3412a36099adf96f26ffc3265a7a5b9eefc5f1a0d87f10dbadf82474c1
 
-Unpacked sample:
-SHA256: 7fadf078fe8f52245aeb541c34544156c3289cef002c490547940d4a7125b35b
+Unpacked sample: 7fadf078fe8f52245aeb541c34544156c3289cef002c490547940d4a7125b35b
 
 **Hashed Apis**
 ```
